@@ -1,10 +1,10 @@
 <h1 align="center">Hi I am Kaustubh Sharma</h1>
 <h3 align="center"></h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshYadav21&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshYadav21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaustubh22327&label=Profile%20views&color=0e75b6&style=flat" alt="Kaustubh22327" /> </p>
 
 - 🌱 I’m currently learning **Backend and Solidity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/utkarshYadav21?tab=repositories](https://github.com/Kaustubh22327?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Kaustubh22327?tab=repositories](https://github.com/Kaustubh22327?tab=repositories)
 
 - 📫 How to reach me **kaustubhsharma0504@gmail.com**
 
