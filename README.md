@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🎓 **B.Tech IT Student @ IIIT Una**
 - 💻 Passionate about **Full Stack Development & Blockchain**
-- 🔭 Currently working on [LuxeNest](https://github.com/your-repo)
+- 🔭 Currently working on QuickShip
 - 🌱 Learning **Solidity & Backend Engineering**
 - 📫 Reach me at **kaustubhsharma0504@gmail.com**
 - ⚡ Fun Fact: I love **DSA & Competitive Coding**
