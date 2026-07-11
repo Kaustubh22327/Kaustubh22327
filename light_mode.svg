@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,6 +15,8 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
+<image href="https://i.pinimg.com/736x/61/7f/71/617f714be23c30db40619c66f9382d2e.jpg" x="30" y="15" width="330" height="490" preserveAspectRatio="xMidYMid slice" />
+<rect x="30" y="15" width="330" height="490" fill="none" stroke="#30363d" stroke-width="2" />
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">Kaustubh Sharma</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Windows 11, Android 15, Linux</tspan>
